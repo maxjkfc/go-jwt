@@ -1,7 +1,7 @@
 
 
 # jwt
-`import "."`
+`import "github.com/maxjkfc/go-jwt"`
 
 * [Overview](#pkg-overview)
 * [Index](#pkg-index)
@@ -18,7 +18,7 @@
 
 
 #### <a name="pkg-files">Package files</a>
-[interface.go](/src/target/interface.go) [token.go](/src/target/token.go) 
+[interface.go](/src/github.com/maxjkfc/go-jwt/interface.go) [token.go](/src/github.com/maxjkfc/go-jwt/token.go) 
 
 
 
